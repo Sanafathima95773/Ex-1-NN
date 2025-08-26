@@ -78,8 +78,10 @@ print("Lenght of X_test ",len(X_test))
 
 
 ## OUTPUT:
+```
 Dataset:
 <img width="1562" height="520" alt="image" src="https://github.com/user-attachments/assets/71b026a5-1b8d-496d-93f4-23c1395d9819" />
+```
 X Values:
 <img width="721" height="251" alt="image" src="https://github.com/user-attachments/assets/4c43e203-6c41-43e5-a3e0-07a9f65292d4" />
 Y Values:
